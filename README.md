@@ -32,5 +32,9 @@ In Module 2 we learned how to create a server and discovered the intricacies of 
 
   
 
+------
 
+### Associated project
+
+In week 6 begins the Module 2 project, which we do in pairs, and that we named **At Once**. We combine all the technologies learned and create a full-stack web application using Express.js as a foundation and Mongoose for models and database communication. The web have some validations on its models, includes sign up, log in and log out functionalities with encrypted passwords and authorization and supports two types of users. Also have routes for Create, Read, Update and Delete (CRUD) features for the different models. You can check the deploy on Heroku [here](https://projecte2ih.herokuapp.com/), or the entire code on [GitHub repository](https://github.com/marcurto/Project_2).
 
